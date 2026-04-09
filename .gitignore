@@ -1,0 +1,15 @@
+# Archivos compilados
+bin/
+out/
+
+# Archivos temporales
+*.log
+*.temp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDEs adicionales
+.vscode/
+.idea/
