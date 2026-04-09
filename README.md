@@ -1,6 +1,6 @@
 # ProgramaFactory
 
-Este proyecto en Java fue un ejercicio de la asignatura IFCD15 – PROGRAMACIÓN JAVA SE 8 (ORACLE) del curso de Core Networks para el examen Oracle Certified Foundations Associate. Permite simular la estructura de una empresa con distintos tipos de empleados, calcular salarios según el rol y gestionar excepciones al asignar trabajadores o buscar empleados por DNI.
+Este proyecto en Java fue un ejercicio del curso IFCD15 – PROGRAMACIÓN JAVA SE 8 (ORACLE) de Core Networks para el examen Oracle Certified Foundations Associate. Permite simular la estructura de una empresa con distintos tipos de empleados, calcular salarios según el rol y gestionar excepciones al asignar trabajadores o buscar empleados por DNI.
 
 **Nota:** El enunciado en PDF es un ejercicio creado por mi profesor Pedro, es de su propiedad y tengo permiso para subirlo a GitHub.
 
