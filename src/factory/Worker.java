@@ -2,7 +2,7 @@ package factory;
 
 /**
 *
-* @author Mykhaylo Freyishyn Novychenko
+* @author MishaFre96
 */
 
 public abstract class Worker{
